@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    {
+      "id": "dontbesilent2025/dbskill",
+      "source": "github",
+      "owner": "dontbesilent2025",
+      "repo": "dbskill"
+    }
+  ]
+}
